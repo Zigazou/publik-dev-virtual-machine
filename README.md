@@ -13,6 +13,10 @@ because:
 
 You’ve been warned!
 
+Publik is a web application from Entr’Ouvert targeted at authorities.
+
+[More about Publik](https://publik.entrouvert.com/)
+
 How to use it
 -------------
 
@@ -44,8 +48,11 @@ minutes. If everything went well, you will see the following message:
 
     Connect using user=admin@localhost, password=admin
 
-**Note**: IP address may vary as it is assigned by any available DHCP server on
-the network.
+**Note**:
+
+- IP address may vary as it is assigned by any available DHCP server on
+  the network.
+- The keyboard is set for french people.
 
 On your computer, you need to have the following hosts names to be inserted in
 your /etc/hosts file:
